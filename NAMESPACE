@@ -1,1 +1,4 @@
-export("pes_gaemothae", "who_is_jonmot", "IwantTogoAjouApt")
+export("pes_gaemothae", "who_is_jonmot")
+
+export(code3)
+export("IwantTogoAjouApt")
